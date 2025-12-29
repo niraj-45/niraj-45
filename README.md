@@ -66,9 +66,7 @@ I am a **Full-Stack Developer** with experience in building scalable, high-perfo
 
 ![](https://github-readme-stats.vercel.app/api?username=niraj-45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=niraj-45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=niraj-45&theme=react-dark&hide_border=false)<br/>
-![Commits Today](./commits-today.svg)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
