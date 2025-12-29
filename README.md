@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Niraj Panta
+<h1 align="center">Hi 👋, I'm Niraj Panta</h1>
+<h3 align="center">Full-Stack Developer | AI & Cybersecurity Enthusiast</h3>
 
 I am a **Full-Stack Developer** with experience in building scalable, high-performance web applications.
 
@@ -33,8 +34,11 @@ I am a **Full-Stack Developer** with experience in building scalable, high-perfo
 ![](https://nirzak-streak-stats.vercel.app/?user=niraj-45&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=niraj-45&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 💻 Skills
+**Frontend:** ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen) ![CSS](https://img.shields.io/badge/CSS-85%25-blue) ![JS](https://img.shields.io/badge/JS-80%25-yellow)  
+**Backend:** ![Node.js](https://img.shields.io/badge/Node-80%25-green) ![Laravel](https://img.shields.io/badge/Laravel-75%25-red)  
+**AI/ML:** ![Python](https://img.shields.io/badge/Python-70%25-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-65%25-orange)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
