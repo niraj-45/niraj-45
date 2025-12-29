@@ -32,7 +32,9 @@ I am a **Full-Stack Developer** with experience in building scalable, high-perfo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=niraj-45&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=niraj-45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-45&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br />
+![Niraj's Activity Graph](https://activity-graph.herokuapp.com/graph?username=niraj-45&theme=react-dark&hide_border=false)
+
 
 ### 💻 Skills
 **Frontend:** ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen) ![CSS](https://img.shields.io/badge/CSS-85%25-blue) ![JS](https://img.shields.io/badge/JS-80%25-yellow)  
